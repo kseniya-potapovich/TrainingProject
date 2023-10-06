@@ -5,5 +5,7 @@ public class FirstClass {
         for (int i = 1; i <= 5; i++) {
             System.out.println("Third commit!");
         }
+        //-----------------
+        System.out.println("We stay on new branch, which name is new_branch");
     }
 }
