@@ -7,5 +7,7 @@ public class FirstClass {
         }
         //-----------------
         System.out.println("We stay on new branch, which name is new_branch");
+        //-----------------
+        System.out.println("Maybe, I understand this Git)");
     }
 }
